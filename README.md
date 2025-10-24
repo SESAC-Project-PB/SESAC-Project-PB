@@ -1,5 +1,6 @@
 # SeSac Project - PB
-<img width="891" height="344" alt="01_프로젝트_설명_1" src="https://github.com/user-attachments/assets/f1e4865f-32e7-4ad9-87d4-13f2910825d1" />
+
+<img width="891" height="344" alt="01_프로젝트_설명_1" src="https://github.com/user-attachments/assets/257ce11a-1bb2-48e2-bfef-1c1771302313" />
 
 
 ## 📦 프로젝트 개요
@@ -49,4 +50,5 @@
 
 
 ## 프로세스 플로우
-<img width="1042" height="371" alt="07_프로세스_플로우" src="https://github.com/user-attachments/assets/aca7f838-3872-4c58-a031-ece197829c2e" />
+<img width="1042" height="371" alt="07_프로세스_플로우" src="https://github.com/user-attachments/assets/c21dbd8d-bd59-4a53-aec2-a03a7c182d6f" />
+
